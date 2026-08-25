@@ -1,0 +1,21 @@
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: dwh_pw
+      POSTGRES_DB: dwh
+    ports:
+      - "5432:5432"
+    volumes:
+      - dwh-data:/var/lib/postgresql/data
+
+  metabase:
+    image: metabase/metabase
+    ports:
+      - "3000:3000"
+    depends_on:
+      - postgres
+
+volumes:
+  dwh-data:

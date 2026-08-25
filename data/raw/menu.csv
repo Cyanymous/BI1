@@ -1,0 +1,29 @@
+SKU,Produktname,Produktgruppe,Produktbeschreibung,Einzelpreis,Steuer
+100,Fischbrötchen Backfisch,Hauptspeisen,Knuspriger Backfisch im Brötchen mit Remoulade,6.5,1.07
+101,Lachs,Hauptspeisen,Gebratenes Lachsfilet mit hausgemachter Sauce,14.5,1.07
+102,Matjes,Hauptspeisen,Matjesfilet nach Hausfrauenart mit Zwiebeln und Apfel,13.5,1.07
+103,Fischbrötchen Räucherlachs,Hauptspeisen,Brötchen mit hauchdünn geschnittenem Räucherlachs,6.9,1.07
+104,Thunfisch Wrap,Hauptgerichte,Wrap mit gegrilltem Thunfisch und frischem Salat,10.9,1.07
+105,Garnelen-Kimchi-Bruger,Hauptgerichte,Burger mit Garnelen und würzigem Kimchi,11.5,1.07
+106,Neptun-Ringe,Beilagen,Frittierte Fischringe mit Dip nach Wahl,7.9,1.07
+107,Chicken Burger,Hauptgerichte,Knuspriger Hähnchen-Burger mit frischem Salat,10.9,1.07
+108,Seelachs-Ei-Baugette,Hauptgerichte,Baguette mit gebratenem Seelachs und Ei,9.8,1.07
+109,Bismarck-Baguette,Hauptgerichte,Baguette mit Bismarckhering und roten Zwiebeln,10.9,1.07
+110,Matjes-Baguette,Hauptgerichte,Baguette mit Matjesfilet und Gurke,11.9,1.07
+111,Pommes Frites,Beilagen,"Klassische Pommes frites, knusprig frittiert",5.5,1.07
+112,Kartoffelwedges,Beilagen,Würzige Kartoffelecken mit Schale,4.9,1.07
+113,Garnelen Box,Beilagen,Knackige Garnelen mit Dip zum Teilen,6.9,1.07
+114,Fisch Nuggets Box,Beilagen,Panierte Fischnuggets mit Sauce,5.5,1.07
+115,Tiramisu,Desserts,Italienisches Tiramisu mit Espresso und Mascarpone,7.9,1.07
+116,Vanillequark,Desserts,"Cremiger Vanillequark, leicht gesüßt",5.9,1.07
+117,Rote Grütze,Desserts,Fruchtige Rote Grütze mit Vanillesauce,5.9,1.07
+118,Schokokuchen,Desserts,Saftiger Schokokuchen mit Schokoladenüberzug,6.5,1.07
+119,Cola,Getränke,"Cola, 0,3l, gekühlt",3.9,1.19
+120,Apfelschorle,Getränke,"Apfelschorle, 0,3l, spritzig",3.2,1.19
+121,Mineralwasser,Getränke,"Stilles oder spritziges Mineralwasser, 0,3l",2.8,1.19
+122,Bier,Getränke,"Fassbier, frisch gezapft, 0,3l",4.2,1.19
+123,Inger-Limonade,Getränke,"Hausgemachte Ingwer-Limonade, spritzig-scharf",5.9,1.19
+124,Cola Zero,Getränke,"Cola ohne Zucker, 0,3l, gekühlt",3.9,1.19
+125,Zitronen-Limonade,Getränke,"Erfrischende Zitronen-Limonade, 0,3l",5.9,1.19
+126,Spezi,Getränke,"Spezi (Cola-Orangenlimo-Mix), 0,3l",3.9,1.19
+127,Alkoholfreies Bier,Getränke,"Alkoholfreies Bier, 0,3l",3.9,1.19

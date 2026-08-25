@@ -1,0 +1,401 @@
+Stadt,PLZ,Bundesland,Landkreis,ID,Liegenschaft
+Marktoberdorf,87616,Freistaat Bayern, Ostallgäu,1,Innenstadt
+Korschenbroich,41352,Nordrhein-Westfalen, Rhein-Kreis Neuss,2,Innenstadt
+Villingen-Schwenningen,78050,Baden-Württemberg, Schwarzwald-Baar-Kreis,3,Andere
+Roding,93426,Freistaat Bayern, Cham,4,Innenstadt
+Rüdesheim am Rhein,65385,Hessen, Rheingau-Taunus-Kreis,5,Andere
+Versmold,33775,Nordrhein-Westfalen, Gütersloh,6,Andere
+Sachsenheim,74343,Baden-Württemberg, Ludwigsburg,7,Raststätte
+Bad Freienwalde,16259,Brandenburg, Märkisch-Oderland,8,Andere
+Kühlungsborn,18225,Mecklenburg-Vorpommern, Bad Doberan,9,Innenstadt
+Grafenau,94481,Freistaat Bayern, Freyung-Grafenau,10,Andere
+Laufenburg,79725,Baden-Württemberg, Waldshut,11,Raststätte
+Greven,48268,Nordrhein-Westfalen, Steinfurt,12,Andere
+Mühlberg-Elbe,4931,Brandenburg, Elbe-Elster,13,Einkaufszentrum
+Lütjenburg,24321,Schleswig-Holstein, Plön,14,Innenstadt
+Kamp-Lintfort,47475,Nordrhein-Westfalen, Wesel,15,Einkaufszentrum
+Harsewinkel,33428,Nordrhein-Westfalen, Gütersloh,16,Einkaufszentrum
+Jülich,52428,Nordrhein-Westfalen, Düren,17,Andere
+Pfullendorf,88630,Baden-Württemberg, Sigmaringen,18,Innenstadt
+Zwönitz,8297,Freistaat Sachsen, Erzgebirgskreis,19,Innenstadt
+Esens,26427,Niedersachsen, Wittmund,20,Raststätte
+Eilenburg,4838,Freistaat Sachsen, Nordsachsen,21,Einkaufszentrum
+Bad Sachsa,37441,Niedersachsen, Osterode am Harz,22,Raststätte
+Waibstadt,74915,Baden-Württemberg, Rhein-Neckar-Kreis,23,Raststätte
+Groß-Gerau,64521,Hessen, Groß-Gerau,24,Innenstadt
+Schloß Holte-Stukenbrock,33758,Nordrhein-Westfalen, Gütersloh,25,Innenstadt
+Emmerich am Rhein,46446,Nordrhein-Westfalen, Kleve,26,Innenstadt
+Buxtehude,21614,Niedersachsen, Stade,27,Innenstadt
+Möckern,39291,Sachsen-Anhalt, Jerichower Land,28,Einkaufszentrum
+Norderstedt,22846,Schleswig-Holstein, Segeberg,29,Innenstadt
+Ramstein-Miesenbach,66877,Rheinland-Pfalz, Kaiserslautern,30,Innenstadt
+Schwandorf,92421,Freistaat Bayern, Schwandorf,31,Innenstadt
+Allendorf,35469,Hessen, Gießen,32,Andere
+Bockenem,31167,Niedersachsen, Hildesheim,33,Andere
+Döbeln,4720,Freistaat Sachsen, Mittelsachsen,34,Raststätte
+Düren,52349,Nordrhein-Westfalen, Düren,35,Raststätte
+Hammelburg,97762,Freistaat Bayern, Bad Kissingen,36,Andere
+Bad Arolsen,34454,Hessen, Waldeck-Frankenberg,37,Innenstadt
+Pfungstadt,64319,Hessen, Darmstadt-Dieburg,38,Raststätte
+Würzburg,97070,Freistaat Bayern, Schweinfurt,39,Andere
+Telgte,48291,Nordrhein-Westfalen, Warendorf,40,Andere
+Glinde,21509,Schleswig-Holstein, Stormarn,41,Andere
+Spenge,32139,Nordrhein-Westfalen, Herford,42,Andere
+Neuenbürg,75305,Baden-Württemberg, Enzkreis,43,Einkaufszentrum
+Miltenberg,63897,Freistaat Bayern, Miltenberg,44,Innenstadt
+Freinsheim,67251,Rheinland-Pfalz, Bad Dürkheim,45,Raststätte
+Werdau,8412,Freistaat Sachsen, Zwickau,46,Raststätte
+Kranichfeld,99448,Freistaat Thüringen, Weimarer Land,47,Einkaufszentrum
+Passau,94032,Freistaat Bayern, Landshut,48,Innenstadt
+Eberbach,69412,Baden-Württemberg, Rhein-Neckar-Kreis,49,Innenstadt
+Merseburg,6217,Sachsen-Anhalt, Saalekreis,50,Raststätte
+Lehrte,31275,Niedersachsen,Hannover,51,Raststätte
+Bad Waldsee,88339,Baden-Württemberg, Ravensburg,52,Andere
+Gnoien,17179,Mecklenburg-Vorpommern, Güstrow,53,Raststätte
+Apolda,99510,Freistaat Thüringen, Weimarer Land,54,Raststätte
+Grimma,4668,Freistaat Sachsen, Leipzig,55,Raststätte
+Hatzfeld,35116,Hessen, Waldeck-Frankenberg,56,Raststätte
+Stadtilm,99326,Freistaat Thüringen, Ilm-Kreis,57,Innenstadt
+Eppingen,75031,Baden-Württemberg, Heilbronn,58,Einkaufszentrum
+Zwingenberg,64673,Hessen, Bergstraße,59,Raststätte
+Idstein,65510,Hessen, Rheingau-Taunus-Kreis,60,Innenstadt
+Boppard,56154,Rheinland-Pfalz, Rhein-Hunsrück-Kreis,61,Raststätte
+Obernkirchen,31683,Niedersachsen, Schaumburg,62,Innenstadt
+Lingen,49808,Niedersachsen, Emsland,63,Andere
+Neustadt an der Weinstraße,67433,Rheinland-Pfalz, Mainz,64,Andere
+Bärnau,95671,Freistaat Bayern, Tirschenreuth,65,Andere
+Oldenburg,26122,Niedersachsen, Emden,66,Raststätte
+Sehnde,31319,Niedersachsen,Hannover,67,Andere
+Schwaan,18258,Mecklenburg-Vorpommern, Bad Doberan,68,Raststätte
+Eschwege,37269,Hessen, Werra-Meißner-Kreis,69,Raststätte
+Bremervörde,27432,Niedersachsen, Rotenburg,70,Raststätte
+Solms,35606,Hessen, Lahn-Dill-Kreis,71,Einkaufszentrum
+Beckum,59269,Nordrhein-Westfalen, Warendorf,72,Einkaufszentrum
+Weißenburg,91781,Freistaat Bayern, Weißenburg-Gunzenhausen,73,Einkaufszentrum
+Mayen,56727,Rheinland-Pfalz, Mayen-Koblenz,74,Andere
+Tauberbischofsheim,97941,Baden-Württemberg, Main-Tauber-Kreis,75,Innenstadt
+Wolkenstein,9429,Freistaat Sachsen, Erzgebirgskreis,76,Innenstadt
+Bückeburg,31675,Niedersachsen, Schaumburg,77,Innenstadt
+Eggenfelden,84307,Freistaat Bayern, Rottal-Inn,78,Andere
+Elsterwerda,4910,Brandenburg, Elbe-Elster,79,Einkaufszentrum
+Heldrungen,6577,Freistaat Thüringen, Kyffhäuserkreis,80,Innenstadt
+Eisenberg,7607,Freistaat Thüringen, Saale-Holzland-Kreis,81,Andere
+Jena,7743,Freistaat Thüringen, Gera,82,Raststätte
+Uelzen,29525,Niedersachsen, Uelzen,83,Innenstadt
+Norderney,26548,Niedersachsen, Aurich,84,Einkaufszentrum
+Freilassing,83395,Freistaat Bayern, Berchtesgadener Land,85,Andere
+Müllrose,15299,Brandenburg, Oder-Spree,86,Einkaufszentrum
+Luckenwalde,14943,Brandenburg, Teltow-Fläming,87,Raststätte
+Straelen,47638,Nordrhein-Westfalen, Kleve,88,Einkaufszentrum
+Hornberg,78132,Baden-Württemberg, Ortenaukreis,89,Raststätte
+Laucha an der Unstrut,6636,Sachsen-Anhalt, Burgenlandkreis,90,Raststätte
+Bad Bentheim,48455,Niedersachsen, Grafschaft Bentheim,91,Innenstadt
+Nerchau,4685,Freistaat Sachsen, Leipzig,92,Raststätte
+Bad Liebenwerda,4924,Brandenburg, Elbe-Elster,93,Raststätte
+Markranstädt,4420,Freistaat Sachsen, Leipzig,94,Innenstadt
+Walldorf,69190,Baden-Württemberg, Rhein-Neckar-Kreis,95,Raststätte
+Wildberg,72218,Baden-Württemberg, Calw,96,Andere
+Bernstadt a. d. Eigen,2748,Freistaat Sachsen, Görlitz,97,Einkaufszentrum
+Bad Fallingbostel,29683,Niedersachsen, Soltau-Fallingbostel,98,Einkaufszentrum
+Marktsteft,97342,Freistaat Bayern, Kitzingen,99,Andere
+Lich,35423,Hessen, Gießen,100,Andere
+Neuenstadt am Kocher,74196,Baden-Württemberg, Heilbronn,101,Einkaufszentrum
+Wertingen,86637,Freistaat Bayern, Dillingen a.d.Donau,102,Einkaufszentrum
+Hasselfelde,38899,Sachsen-Anhalt, Harz,103,Raststätte
+Viersen,41747,Nordrhein-Westfalen, Viersen,104,Einkaufszentrum
+Fehmarn,23769,Schleswig-Holstein, Ostholstein,105,Innenstadt
+Roßleben,6571,Freistaat Thüringen, Kyffhäuserkreis,106,Andere
+Bredstedt,25821,Schleswig-Holstein, Nordfriesland,107,Raststätte
+Golßen,15938,Brandenburg, Dahme-Spreewald,108,Andere
+Blankenburg,38889,Sachsen-Anhalt, Harz,109,Andere
+Neunburg vorm Wald,92431,Freistaat Bayern, Schwandorf,110,Innenstadt
+Arendsee,39619,Sachsen-Anhalt, Altmarkkreis Salzwedel,111,Innenstadt
+Wittmund,26409,Niedersachsen, Wittmund,112,Einkaufszentrum
+Wunstorf,31515,Niedersachsen,Hannover,113,Einkaufszentrum
+Grünberg,35305,Hessen, Gießen,114,Innenstadt
+Dippoldiswalde,1744,Freistaat Sachsen, Sächs. Schweiz-Osterzgebirge,115,Einkaufszentrum
+Geringswalde,9326,Freistaat Sachsen, Mittelsachsen,116,Einkaufszentrum
+Luckau,15926,Brandenburg, Dahme-Spreewald,117,Andere
+Waghäusel,68753,Baden-Württemberg, Karlsruhe,118,Einkaufszentrum
+Duderstadt,37115,Niedersachsen, Göttingen,119,Einkaufszentrum
+Bad Reichenhall,83435,Freistaat Bayern, Berchtesgadener Land,120,Andere
+Bad Homburg,61348,Hessen, Hochtaunuskreis,121,Andere
+Weilburg,35781,Hessen, Limburg-Weilburg,122,Raststätte
+Klötze,38486,Sachsen-Anhalt, Altmarkkreis Salzwedel,123,Innenstadt
+Scheibenberg,9481,Freistaat Sachsen, Erzgebirgskreis,124,Innenstadt
+Osthofen,67574,Rheinland-Pfalz, Alzey-Worms,125,Innenstadt
+Coesfeld,48653,Nordrhein-Westfalen, Coesfeld,126,Einkaufszentrum
+Beverungen,37688,Nordrhein-Westfalen, Höxter,127,Einkaufszentrum
+Lübben,15907,Brandenburg, Dahme-Spreewald,128,Andere
+Meuselwitz,4610,Freistaat Thüringen, Altenburger Land,129,Innenstadt
+Rottenburg a.d.Laaber,84056,Freistaat Bayern, Landshut,130,Einkaufszentrum
+Rötha,4571,Freistaat Sachsen, Leipzig,131,Andere
+Steinheim an der Murr,71711,Baden-Württemberg, Ludwigsburg,132,Einkaufszentrum
+Sprockhövel,45549,Nordrhein-Westfalen, Ennepe-Ruhr-Kreis,133,Innenstadt
+Münchberg,95213,Freistaat Bayern, Hof,134,Raststätte
+Simbach a.Inn,84359,Freistaat Bayern, Rottal-Inn,135,Einkaufszentrum
+Aßlar,35614,Hessen, Lahn-Dill-Kreis,136,Andere
+Meiningen,98617,Freistaat Thüringen, Schmalkalden-Meiningen,137,Innenstadt
+Altena,58762,Nordrhein-Westfalen, Märkischer Kreis,138,Innenstadt
+Lüdenscheid,58507,Nordrhein-Westfalen, Märkischer Kreis,139,Innenstadt
+Jessen,6917,Sachsen-Anhalt, Wittenberg,140,Einkaufszentrum
+Diepholz,49356,Niedersachsen, Diepholz,141,Andere
+Haltern am See,45721,Nordrhein-Westfalen, Recklinghausen,142,Raststätte
+Fürstenwalde-Spree,15517,Brandenburg, Oder-Spree,143,Andere
+Deggendorf,94469,Freistaat Bayern, Deggendorf,144,Andere
+Lauda-Königshofen,97922,Baden-Württemberg, Main-Tauber-Kreis,145,Einkaufszentrum
+Wegberg,41844,Nordrhein-Westfalen, Heinsberg,146,Einkaufszentrum
+Falkensee,14612,Brandenburg, Havelland,147,Raststätte
+Schneverdingen,29640,Niedersachsen, Soltau-Fallingbostel,148,Raststätte
+Windsbach,91575,Freistaat Bayern, Ansbach,149,Einkaufszentrum
+Vellberg,74541,Baden-Württemberg, Schwäbisch Hall,150,Andere
+Schleiz,7907,Freistaat Thüringen, Saale-Orla-Kreis,151,Einkaufszentrum
+Neuenstein,74632,Baden-Württemberg, Hohenlohekreis,152,Raststätte
+Großröhrsdorf,1900,Freistaat Sachsen, Bautzen,153,Einkaufszentrum
+Peitz,3185,Brandenburg, Spree-Neiße,154,Raststätte
+Bad Urach,72574,Baden-Württemberg, Reutlingen,155,Raststätte
+Immenstadt,87509,Freistaat Bayern, Oberallgäu,156,Andere
+Hagen,58095,Nordrhein-Westfalen, Dortmund,157,Innenstadt
+Dingolfing,84130,Freistaat Bayern, Dingolfing-Landau,158,Andere
+Ebersbach,2730,Freistaat Sachsen, Görlitz,159,Innenstadt
+Nebra,6642,Sachsen-Anhalt, Burgenlandkreis,160,Einkaufszentrum
+Lauchhammer,1979,Brandenburg, Oberspreewald-Lausitz,161,Einkaufszentrum
+Thannhausen,86470,Freistaat Bayern, Günzburg,162,Einkaufszentrum
+Zell im Wiesental,79669,Baden-Württemberg, Lörrach,163,Raststätte
+Dommitzsch,4880,Freistaat Sachsen, Nordsachsen,164,Innenstadt
+Erbach,64711,Hessen, Odenwaldkreis,165,Raststätte
+Bad Dürrenberg,6231,Sachsen-Anhalt, Saalekreis,166,Innenstadt
+Essen,45127,Nordrhein-Westfalen, Duisburg,167,Innenstadt
+Gescher,48712,Nordrhein-Westfalen, Borken,168,Raststätte
+Solingen,42651,Nordrhein-Westfalen, Remscheid,169,Raststätte
+Wiehl,51674,Nordrhein-Westfalen, Oberbergischer Kreis,170,Raststätte
+Erkelenz,41812,Nordrhein-Westfalen, Heinsberg,171,Einkaufszentrum
+Sulingen,27232,Niedersachsen, Diepholz,172,Raststätte
+Schönewalde,4916,Brandenburg, Elbe-Elster,173,Einkaufszentrum
+Bühl,77815,Baden-Württemberg, Rastatt,174,Innenstadt
+Steinbach,61449,Hessen, Hochtaunuskreis,175,Innenstadt
+Fulda,36037,Hessen, Fulda,176,Andere
+Torgelow,17358,Mecklenburg-Vorpommern, Uecker-Randow,177,Andere
+Staßfurt,39418,Sachsen-Anhalt, Salzlandkreis,178,Raststätte
+Unna,59423,Nordrhein-Westfalen, Unna,179,Einkaufszentrum
+Schwarzenbach,95131,Freistaat Bayern, Hof,180,Einkaufszentrum
+Kaltenkirchen,24568,Schleswig-Holstein, Segeberg,181,Andere
+Donauwörth,86609,Freistaat Bayern, Donau-Ries,182,Innenstadt
+Brandenburg an der Havel,14770,Brandenburg, Brandenburg,183,Andere
+Sandersdorf-Brehna,6792,Sachsen-Anhalt, Anhalt-Bitterfeld,184,Andere
+Bendorf,56170,Rheinland-Pfalz, Mayen-Koblenz,185,Raststätte
+Clausthal-Zellerfeld,38678,Niedersachsen, Goslar,186,Andere
+Preußisch Oldendorf,32361,Nordrhein-Westfalen, Minden-Lübbecke,187,Andere
+Neustadt b.Coburg,96465,Freistaat Bayern, Coburg,188,Innenstadt
+Herzogenaurach,91074,Freistaat Bayern, Erlangen-Höchstadt,189,Raststätte
+Günzburg,89312,Freistaat Bayern, Günzburg,190,Andere
+Viernheim,68519,Hessen, Bergstraße,191,Einkaufszentrum
+Meschede,59872,Nordrhein-Westfalen, Hochsauerlandkreis,192,Raststätte
+Hohenmölsen,6679,Sachsen-Anhalt, Burgenlandkreis,193,Innenstadt
+Penkun,17328,Mecklenburg-Vorpommern, Uecker-Randow,194,Andere
+Hitzacker,29456,Niedersachsen, Lüchow-Dannenberg,195,Innenstadt
+Overath,51491,Nordrhein-Westfalen, Rheinisch-Bergischer Kreis,196,Innenstadt
+Zeitz,6712,Sachsen-Anhalt, Burgenlandkreis,197,Innenstadt
+Eltmann,97483,Freistaat Bayern, Haßberge,198,Einkaufszentrum
+Senftenberg,1968,Brandenburg, Oberspreewald-Lausitz,199,Einkaufszentrum
+Sankt Andreasberg,37444,Niedersachsen, Goslar,200,Andere
+Uslar,37170,Niedersachsen, Northeim,201,Innenstadt
+Buttstädt,99628,Freistaat Thüringen, Sömmerda,202,Raststätte
+Abenberg,91183,Freistaat Bayern, Roth,203,Raststätte
+Wittstock,16909,Brandenburg, Ostprignitz-Ruppin,204,Raststätte
+Lollar,35457,Hessen, Gießen,205,Andere
+Wetter,58300,Nordrhein-Westfalen, Ennepe-Ruhr-Kreis,206,Einkaufszentrum
+Herrenberg,71083,Baden-Württemberg, Böblingen,207,Andere
+Bad Wilsnack,19336,Brandenburg, Prignitz,208,Innenstadt
+Vreden,48691,Nordrhein-Westfalen, Borken,209,Innenstadt
+Wetter,35083,Hessen, Marburg-Biedenkopf,210,Andere
+Netzschkau,8491,Freistaat Sachsen, Vogtlandkreis,211,Raststätte
+Wesseling,50389,Nordrhein-Westfalen, Rhein-Erft-Kreis,212,Raststätte
+Schwerte,58239,Nordrhein-Westfalen, Unna,213,Einkaufszentrum
+Bad Nenndorf,31542,Niedersachsen, Schaumburg,214,Innenstadt
+Guben,3172,Brandenburg, Spree-Neiße,215,Einkaufszentrum
+Anklam,17389,Mecklenburg-Vorpommern, Ostvorpommern,216,Raststätte
+Eisenach,99817,Freistaat Thüringen, Weimar,217,Andere
+Liebenau,34396,Hessen, Kassel,218,Innenstadt
+Selbitz,95152,Freistaat Bayern, Hof,219,Raststätte
+Friedrichsthal,66299,Saarland, Regionalverband Saarbrücken,220,Einkaufszentrum
+Leinfelden-Echterdingen,70771,Baden-Württemberg, Esslingen,221,Andere
+Rennerod,56477,Rheinland-Pfalz, Westerwaldkreis,222,Innenstadt
+Hemmingen,30966,Niedersachsen,Hannover,223,Raststätte
+Grünhain-Beierfeld,8344,Freistaat Sachsen, Erzgebirgskreis,224,Innenstadt
+Egeln,39435,Sachsen-Anhalt, Salzlandkreis,225,Andere
+Freudenberg,97896,Baden-Württemberg, Main-Tauber-Kreis,226,Raststätte
+Hemsbach,69502,Baden-Württemberg, Rhein-Neckar-Kreis,227,Andere
+Garz-Rügen,18574,Mecklenburg-Vorpommern, Rügen,228,Andere
+Rutesheim,71277,Baden-Württemberg, Böblingen,229,Einkaufszentrum
+Steinau an der Straße,36396,Hessen, Main-Kinzig-Kreis,230,Raststätte
+Borkum,26757,Niedersachsen, Leer,231,Innenstadt
+Treuchtlingen,91757,Freistaat Bayern, Weißenburg-Gunzenhausen,232,Innenstadt
+Meldorf,25704,Schleswig-Holstein, Dithmarschen,233,Einkaufszentrum
+Teuchern,6682,Sachsen-Anhalt, Burgenlandkreis,234,Innenstadt
+Sonthofen,87527,Freistaat Bayern, Oberallgäu,235,Andere
+Tegernsee,83684,Freistaat Bayern, Miesbach,236,Innenstadt
+Ochsenfurt,97199,Freistaat Bayern, Würzburg,237,Raststätte
+Gefell,7926,Freistaat Thüringen, Saale-Orla-Kreis,238,Andere
+Stadtlengsfeld,36457,Freistaat Thüringen, Wartburgkreis,239,Raststätte
+Havelsee,14798,Brandenburg, Potsdam-Mittelmark,240,Andere
+Rietberg,33397,Nordrhein-Westfalen, Gütersloh,241,Innenstadt
+Oberhof,98559,Freistaat Thüringen, Schmalkalden-Meiningen,242,Innenstadt
+Bretten,75015,Baden-Württemberg, Karlsruhe,243,Raststätte
+Brake,26919,Niedersachsen, Wesermarsch,244,Andere
+Bad Pyrmont,31812,Niedersachsen, Hameln-Pyrmont,245,Einkaufszentrum
+Sulzbach-Rosenberg,92237,Freistaat Bayern, Amberg-Sulzbach,246,Einkaufszentrum
+Pausa,7952,Freistaat Sachsen, Vogtlandkreis,247,Raststätte
+Reinheim,64354,Hessen, Darmstadt-Dieburg,248,Andere
+Amberg,92224,Freistaat Bayern, Oberpfalz,249,Innenstadt
+Prichsenstadt,97357,Freistaat Bayern, Kitzingen,250,Einkaufszentrum
+Schrobenhausen,86529,Freistaat Bayern, Neuburg-Schrobenhausen,251,Einkaufszentrum
+Heimbach,52396,Nordrhein-Westfalen, Düren,252,Innenstadt
+Landshut,84028,Freistaat Bayern, Niederbayern,253,Andere
+Hartenstein,8118,Freistaat Sachsen, Zwickau,254,Andere
+Sankt Augustin,53757,Nordrhein-Westfalen, Rhein-Sieg-Kreis,255,Raststätte
+Lohmar,53797,Nordrhein-Westfalen, Rhein-Sieg-Kreis,256,Innenstadt
+Gräfenthal,98743,Freistaat Thüringen, Saalfeld-Rudolstadt,257,Einkaufszentrum
+Wallenfels,96346,Freistaat Bayern, Kronach,258,Raststätte
+Dassow,23942,Mecklenburg-Vorpommern, Nordwestmecklenburg,259,Einkaufszentrum
+Oppenheim,55276,Rheinland-Pfalz, Mainz-Bingen,260,Andere
+Barby,39249,Sachsen-Anhalt, Salzlandkreis,261,Einkaufszentrum
+Soest,59494,Nordrhein-Westfalen, Soest,262,Innenstadt
+Triptis,7819,Freistaat Thüringen, Saale-Orla-Kreis,263,Einkaufszentrum
+Oer-Erkenschwick,45739,Nordrhein-Westfalen, Recklinghausen,264,Raststätte
+Forchtenberg,74670,Baden-Württemberg, Hohenlohekreis,265,Andere
+Schönwald,95173,Freistaat Bayern, Wunsiedel,266,Innenstadt
+Wittlich,54516,Rheinland-Pfalz, Bernkastel-Wittlich,267,Einkaufszentrum
+Bersenbrück,49593,Niedersachsen, Osnabrück,268,Raststätte
+Hohnstein,1848,Freistaat Sachsen, Sächs. Schweiz-Osterzgebirge,269,Einkaufszentrum
+Lorsch,64653,Hessen, Bergstraße,270,Innenstadt
+Illertissen,89257,Freistaat Bayern, Neu-Ulm,271,Raststätte
+Waldsassen,95652,Freistaat Bayern, Tirschenreuth,272,Innenstadt
+Rastenberg,99636,Freistaat Thüringen, Sömmerda,273,Andere
+Bremerhaven,27576,Freie Hansestadt Bremen, Bremen,274,Einkaufszentrum
+Geisingen,78187,Baden-Württemberg, Tuttlingen,275,Raststätte
+Altentreptow,17087,Mecklenburg-Vorpommern, Demmin,276,Andere
+Braubach,56338,Rheinland-Pfalz, Rhein-Lahn-Kreis,277,Raststätte
+Mylau,8499,Freistaat Sachsen, Vogtlandkreis,278,Einkaufszentrum
+Kleve,47533,Nordrhein-Westfalen, Kleve,279,Innenstadt
+Ober-Ramstadt,64372,Hessen, Darmstadt-Dieburg,280,Raststätte
+Gladenbach,35075,Hessen, Marburg-Biedenkopf,281,Andere
+Ebern,96106,Freistaat Bayern, Haßberge,282,Einkaufszentrum
+Helmbrechts,95233,Freistaat Bayern, Hof,283,Einkaufszentrum
+Sankt Goarshausen,56346,Rheinland-Pfalz, Rhein-Lahn-Kreis,284,Innenstadt
+Lippstadt,59555,Nordrhein-Westfalen, Soest,285,Raststätte
+Haiger,35708,Hessen, Lahn-Dill-Kreis,286,Innenstadt
+Taucha,4425,Freistaat Sachsen, Nordsachsen,287,Raststätte
+Freising,85354,Freistaat Bayern, Freising,288,Andere
+Tuttlingen,78532,Baden-Württemberg, Tuttlingen,289,Andere
+Neugersdorf,2727,Freistaat Sachsen, Görlitz,290,Innenstadt
+Lübz,19386,Mecklenburg-Vorpommern, Parchim,291,Innenstadt
+Elsfleth,26931,Niedersachsen, Wesermarsch,292,Raststätte
+Ettenheim,77955,Baden-Württemberg, Ortenaukreis,293,Einkaufszentrum
+Welzow,3119,Brandenburg, Spree-Neiße,294,Innenstadt
+Zittau,2763,Freistaat Sachsen, Görlitz,295,Innenstadt
+Rostock,18055,Mecklenburg-Vorpommern, Neubrandenburg,296,Raststätte
+Pirna,1796,Freistaat Sachsen, Sächs. Schweiz-Osterzgebirge,297,Einkaufszentrum
+Gau-Algesheim,55435,Rheinland-Pfalz, Mainz-Bingen,298,Innenstadt
+Bleicherode,99752,Freistaat Thüringen, Nordhausen,299,Raststätte
+Zeulenroda-Triebes,7937,Freistaat Thüringen, Greiz,300,Andere
+Höxter,37671,Nordrhein-Westfalen, Höxter,301,Einkaufszentrum
+Ellrich,99755,Freistaat Thüringen, Nordhausen,302,Einkaufszentrum
+Giengen an der Brenz,89537,Baden-Württemberg, Heidenheim,303,Einkaufszentrum
+Tönisvorst,47918,Nordrhein-Westfalen, Viersen,304,Andere
+Rhens,56321,Rheinland-Pfalz, Mayen-Koblenz,305,Innenstadt
+Brakel,33034,Nordrhein-Westfalen, Höxter,306,Einkaufszentrum
+St. Georgen im Schwarzwald,78112,Baden-Württemberg, Schwarzwald-Baar-Kreis,307,Innenstadt
+Jüterbog,14913,Brandenburg, Teltow-Fläming,308,Innenstadt
+Felsberg,34587,Hessen, Schwalm-Eder-Kreis,309,Andere
+Tangermünde,39590,Sachsen-Anhalt, Stendal,310,Einkaufszentrum
+Stollberg,9366,Freistaat Sachsen, Erzgebirgskreis,311,Innenstadt
+Tambach-Dietharz,99897,Freistaat Thüringen, Gotha,312,Andere
+Ebersberg,85560,Freistaat Bayern, Ebersberg,313,Innenstadt
+Niedenstein,34305,Hessen, Schwalm-Eder-Kreis,314,Raststätte
+Haigerloch,72401,Baden-Württemberg, Zollernalbkreis,315,Einkaufszentrum
+Herzogenrath,52134,Nordrhein-Westfalen, Leverkusen,316,Innenstadt
+Vohenstrauß,92648,Freistaat Bayern, Neustadt a.d.Waldnaab,317,Raststätte
+Kreuztal,57223,Nordrhein-Westfalen, Siegen-Wittgenstein,318,Andere
+Göttingen,37083,Niedersachsen, Göttingen,319,Innenstadt
+Eutin,23701,Schleswig-Holstein, Ostholstein,320,Raststätte
+Schlitz,36110,Hessen, Vogelsbergkreis,321,Einkaufszentrum
+Schmalkalden,98574,Freistaat Thüringen, Schmalkalden-Meiningen,322,Einkaufszentrum
+Elzach,79215,Baden-Württemberg, Emmendingen,323,Raststätte
+Volkmarsen,34471,Hessen, Waldeck-Frankenberg,324,Einkaufszentrum
+Wittenburg,19243,Mecklenburg-Vorpommern, Ludwigslust,325,Andere
+Wolframs-Eschenbach,91639,Freistaat Bayern, Ansbach,326,Raststätte
+Löbejün,6193,Sachsen-Anhalt, Saalekreis,327,Innenstadt
+Bad Kissingen,97688,Freistaat Bayern, Bad Kissingen,328,Innenstadt
+Teltow,14513,Brandenburg, Potsdam-Mittelmark,329,Raststätte
+Hausach,77756,Baden-Württemberg, Ortenaukreis,330,Einkaufszentrum
+Kemberg,6901,Sachsen-Anhalt, Wittenberg,331,Raststätte
+Hemmoor,21745,Niedersachsen, Cuxhaven,332,Andere
+Schleswig,24837,Schleswig-Holstein, Schleswig-Flensburg,333,Einkaufszentrum
+Niederkassel,53859,Nordrhein-Westfalen, Rhein-Sieg-Kreis,334,Andere
+Konstanz,78462,Baden-Württemberg, Konstanz,335,Andere
+Olbernhau,9526,Freistaat Sachsen, Erzgebirgskreis,336,Raststätte
+Neckarbischofsheim,74924,Baden-Württemberg, Rhein-Neckar-Kreis,337,Innenstadt
+Heinsberg,52525,Nordrhein-Westfalen, Heinsberg,338,Raststätte
+Velten,16727,Brandenburg, Oberhavel,339,Andere
+Euskirchen,53879,Nordrhein-Westfalen, Euskirchen,340,Andere
+Neusäß,86356,Freistaat Bayern, Augsburg,341,Einkaufszentrum
+Lauingen,89415,Freistaat Bayern, Dillingen a.d.Donau,342,Einkaufszentrum
+Hoya,27318,Niedersachsen, Nienburg,343,Raststätte
+Rüthen,59602,Nordrhein-Westfalen, Soest,344,Raststätte
+Stein,90547,Freistaat Bayern, Fürth,345,Innenstadt
+Kirtorf,36320,Hessen, Vogelsbergkreis,346,Raststätte
+Falkenberg,4895,Brandenburg, Elbe-Elster,347,Raststätte
+Wesenberg,17255,Mecklenburg-Vorpommern, Mecklenburg-Strelitz,348,Raststätte
+Donzdorf,73072,Baden-Württemberg, Göppingen,349,Innenstadt
+Königsbrück,1936,Freistaat Sachsen, Bautzen,350,Raststätte
+Lauter,8312,Freistaat Sachsen, Erzgebirgskreis,351,Andere
+Witten,58452,Nordrhein-Westfalen, Ennepe-Ruhr-Kreis,352,Raststätte
+Bernkastel-Kues,54470,Rheinland-Pfalz, Bernkastel-Wittlich,353,Raststätte
+Rethem,27336,Niedersachsen, Soltau-Fallingbostel,354,Innenstadt
+Nortorf,24589,Schleswig-Holstein, Rendsburg-Eckernförde,355,Andere
+Tanna,7922,Freistaat Thüringen, Saale-Orla-Kreis,356,Andere
+Dorsten,46284,Nordrhein-Westfalen, Recklinghausen,357,Einkaufszentrum
+Selters,56242,Rheinland-Pfalz, Westerwaldkreis,358,Raststätte
+Ohrdruf,99885,Freistaat Thüringen, Gotha,359,Andere
+Freyburg,6632,Sachsen-Anhalt, Burgenlandkreis,360,Raststätte
+Adelsheim,74740,Baden-Württemberg, Neckar-Odenwald-Kreis,361,Einkaufszentrum
+Leichlingen,42799,Nordrhein-Westfalen, Rheinisch-Bergischer Kreis,362,Einkaufszentrum
+Sebnitz,1855,Freistaat Sachsen, Sächs. Schweiz-Osterzgebirge,363,Andere
+Rosenfeld,72348,Baden-Württemberg, Zollernalbkreis,364,Einkaufszentrum
+Auerbach,91275,Freistaat Bayern, Amberg-Sulzbach,365,Einkaufszentrum
+Neukirchen-Vluyn,47506,Nordrhein-Westfalen, Wesel,366,Einkaufszentrum
+Rosbach,61191,Hessen, Wetteraukreis,367,Andere
+Sömmerda,99610,Freistaat Thüringen, Sömmerda,368,Raststätte
+Sternberg,19406,Mecklenburg-Vorpommern, Parchim,369,Innenstadt
+Schönebeck,39218,Sachsen-Anhalt, Salzlandkreis,370,Innenstadt
+Bad Mergentheim,97980,Baden-Württemberg, Main-Tauber-Kreis,371,Raststätte
+Eschborn,65760,Hessen, Main-Taunus-Kreis,372,Andere
+Mendig,56743,Rheinland-Pfalz, Mayen-Koblenz,373,Andere
+Kuppenheim,76456,Baden-Württemberg, Rastatt,374,Innenstadt
+Herford,32052,Nordrhein-Westfalen, Herford,375,Andere
+Brühl,50321,Nordrhein-Westfalen, Rhein-Erft-Kreis,376,Einkaufszentrum
+Langewiesen,98704,Freistaat Thüringen, Ilm-Kreis,377,Einkaufszentrum
+Langenzenn,90579,Freistaat Bayern, Fürth,378,Einkaufszentrum
+Hanau,63450,Hessen, Main-Kinzig-Kreis,379,Raststätte
+Kalkar,47546,Nordrhein-Westfalen, Kleve,380,Andere
+Teterow,17166,Mecklenburg-Vorpommern, Güstrow,381,Einkaufszentrum
+Johanngeorgenstadt,8349,Freistaat Sachsen, Erzgebirgskreis,382,Innenstadt
+Bad Schussenried,88427,Baden-Württemberg, Biberach,383,Raststätte
+Rheinberg,47495,Nordrhein-Westfalen, Wesel,384,Einkaufszentrum
+Leipzig,4109,Freistaat Sachsen, Leipzig,385,Einkaufszentrum
+Schleiden,53937,Nordrhein-Westfalen, Euskirchen,386,Innenstadt
+Havelberg,39539,Sachsen-Anhalt, Stendal,387,Andere
+Paderborn,33098,Nordrhein-Westfalen, Paderborn,388,Einkaufszentrum
+Dreieich,63303,Hessen, Offenbach,389,Innenstadt
+Bad Muskau,2953,Freistaat Sachsen, Görlitz,390,Innenstadt
+Güstrow,18273,Mecklenburg-Vorpommern, Güstrow,391,Raststätte
+Bad Berka,99438,Freistaat Thüringen, Weimarer Land,392,Einkaufszentrum
+Märkisch Buchholz,15748,Brandenburg, Dahme-Spreewald,393,Einkaufszentrum
+Friedland,17098,Mecklenburg-Vorpommern, Mecklenburg-Strelitz,394,Innenstadt
+Widdern,74259,Baden-Württemberg, Heilbronn,395,Andere
+Arneburg,39596,Sachsen-Anhalt, Stendal,396,Andere
+Gießen,35390,Hessen, Gießen,397,Andere
+Pohlheim,35415,Hessen, Gießen,398,Raststätte
+Bottrop,46236,Nordrhein-Westfalen, Münster,399,Einkaufszentrum
+Gröditz,1609,Freistaat Sachsen, Meißen,400,Einkaufszentrum
