@@ -26,7 +26,7 @@ columns = pos_import.columns.insert(4, 'Standort')
 locations = (
     pd.read_csv('data/raw/locations.csv')
     .pipe(lambda d: (d['Stadt'] + '-' + d['PLZ'].astype(str)).tolist())
-)[:11]
+)
 
  
 # Frei erfundene Speisekarte: (SKU, Artikel, Gruppe, Einzelpreis, SteuerRate, Popularität)

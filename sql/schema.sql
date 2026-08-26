@@ -34,10 +34,10 @@ CREATE TABLE dim_ort (
     ort_key SERIAL PRIMARY KEY,
     id INT UNIQUE NOT NULL,
     liegenschaft VARCHAR(50),
-    stadt VARCHAR(50),
+    stadt VARCHAR(500),
     plz VARCHAR(5),
-    bundesland VARCHAR(50),
-    landkreis VARCHAR(50)
+    lat NUMERIC(9,6),
+    lon NUMERIC(9,6)
 );
 
 -- Faktentabelle

@@ -108,3 +108,20 @@ typ = [
 ]
 typ_df = pd.DataFrame(typ, columns = ['Typ', 'Beschreibung'])
 typ_df.to_csv('data/raw/typ.csv', index = False)
+
+
+# ------------------------------------------------------------
+# Location New
+# ------------------------------------------------------------
+loc_new = pd.read_csv('data/raw/zipcodes.csv', sep=',').sample(n=400, random_state=1)
+loc_new = loc_new.assign(
+    ID=lambda df: range(1,401),
+    ZIPCODE=lambda df: df['ZIPCODE'].str.replace("'", ""),
+    NAME=lambda df: df['NAME'].str.replace("'", ""),
+    LAT=lambda df: df['LAT'].astype(float),
+    LON=lambda df: df['LON'].astype(float),
+    liegenschaft=lambda d: np.random.choice(['Einkaufszentrum', 'Innenstadt', 'Raststätte', 'Andere'], size = len(d)) 
+)
+loc_new = loc_new.drop(columns = ['INDEX'])
+loc_new.columns = ['id', 'plz', 'stadt', 'lat', 'lon', 'liegenschaft']
+loc_new.to_csv('data/raw/locations.csv', index = False)

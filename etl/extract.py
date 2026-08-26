@@ -21,7 +21,6 @@ def extract_tische():
 def extract_orte():
     return pd.read_csv(RAW_DATA_DIR / 'locations.csv')
 
-
 # ------------------------------------------------------------
 # Faktentabllen laden
 # ------------------------------------------------------------

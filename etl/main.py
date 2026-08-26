@@ -1,10 +1,7 @@
-# ETM Mmodule laden
+# ETL Mmodule laden
 import etl.extract as et
 import etl.transform as tr
 import etl.load as lo
-
-# sku_raw = etl.extract.extract_sku()
-# sku = tr.transform_sku(sku_raw)
 
 # Verbindung zu Datenbank herstellen und alle Zeilen löschen
 engine = lo.get_engine()

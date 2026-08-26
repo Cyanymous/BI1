@@ -1,9 +1,7 @@
 import pandas as pd
 # Tabellenspalten müssen für alle Tabellen mit den in schema.sql definierten Spalten übereinstimmen!
-# ------------------------------------------------------------
-# Dimensionstabellen
-# ------------------------------------------------------------
 
+# ---------------Dimensionstabellen---------------
 def transform_sku(df):
     df = df.copy()
     df.columns = ['sku', 'produktname', 'produktgruppe', 'produktbeschreibung', 'produktpreis', 'produktsteuer']
@@ -26,9 +24,8 @@ def transform_tische(df):
 
 def transform_orte(df):
     df = df.copy()
-    df.columns = ['stadt', 'plz', 'bundesland', 'landkreis', 'id', 'liegenschaft']
+    df.columns = ['id', 'plz', 'stadt', 'lat', 'lon', 'liegenschaft']
     return df
-
 
 # ---------------Faktentabellen---------------
 # viele Spalten der Faktentabelle sind für unsere Auswertungen irrelevant und werden gelöscht
